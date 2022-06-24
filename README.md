@@ -1,0 +1,2 @@
+# POMODORO TIMER 
+I made this program using pythons GUI module tkinter. This program is a pomodoro timer that works based on the Pomodoro technique to help it's user with time management and productivity.
